@@ -2,7 +2,7 @@
  * selectToAutocomplete.js
  *
  * Copyright 2012, Simples agência
- * @author Maikom James , Pable Demier
+ * @author Maikom James , Pable Demier, Vitor Almeida
  * 
  */
 $.fn.extend({
